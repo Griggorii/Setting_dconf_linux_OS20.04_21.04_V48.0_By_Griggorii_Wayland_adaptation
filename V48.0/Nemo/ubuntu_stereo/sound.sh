@@ -1,1 +1,0 @@
-dconf load / < sound.ini
