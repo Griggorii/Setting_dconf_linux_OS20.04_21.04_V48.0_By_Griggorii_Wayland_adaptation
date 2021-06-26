@@ -7107,6 +7107,8 @@ EOF
 EOF
 (plank) | (sleep 3; killall plank)
 EOF
+sudo rm -rf /var/lib/bluetooth/*
+EOF
 clear
 EOF
 sh -c "/usr/bin/x-www-browser www.github.com/Griggorii/Setting_dconf_linux_OS20.04_21.04_V48.0_By_Griggorii_Wayland_adaptation"
